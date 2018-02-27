@@ -16,7 +16,7 @@ Compilation of various useful stuff
 * grepwin
 * nodejs
 * notepadplusplus
-* paint.net
+* paint<span />.net
 * visualstudiocode
 * vlc
 
@@ -51,14 +51,18 @@ npm i -g angular-cli bower gulp node-inspector npm-check-updates protractor type
 ## **VisualStudioCode**
 ### Extensions
 * C# (ms-vscode.csharp)
+* Bracket Pair Colorizer (CoenraadS.bracket-pair-colorizer)
 * C# Extensions (jchannon.csharpextensions)
 * Color Picker (anseki.vscode-color)
-* Git History (donjayamanne.githistory)
+* Document This (joelday.docthis)
+* Git Lens (eamodio.gitlens)
 * Ionide-FAKE (Ionide.Ionide-FAKE)
 * Ionide-fsharp (Ionide.Ionide-fsharp)
 * Ionide-Paket (Ionide.Ionide-Paket)
 * Material Theme Kit (ms-vscode.Theme-MaterialKit)
+* Prettier (esbenp.prettier-vscode)
 * Output Colorizer (IBM.output-colorizer)
 * Powershell (ms-vscode.PowerShell)
 * Preview (searKing.preview-vscode) : Markdown
 * Prettify JSON (mohsen1.prettify-json)
+* TODO Highlight (wayou.vscode-todo-highlight)
